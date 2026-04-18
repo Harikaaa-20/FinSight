@@ -10,11 +10,9 @@ FinSight is a comprehensive financial document analysis platform leveraging stat
 
 *(Replace the placeholder URLs below with the actual paths or links to your application screenshots)*
 
-| Dashboard & Upload | Analysis & Results |
+| Dashboard & Upload | Named Entity Recognition (NER) |
 | :---: | :---: |
-| <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="400"/> | <img src="docs/screenshots/analysis.png" alt="Analysis" width="400"/> |
-| **Sentiment Highlighting** | **Named Entity Recognition** |
-| <img src="docs/screenshots/sentiment_placeholder.png" alt="Sentiment" width="400"/> | <img src="docs/screenshots/ner_placeholder.png" alt="NER" width="400"/> |
+| <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="400"/> | <img src="docs/screenshots/ner.png" alt="NER" width="400"/> |
 
 ---
 
